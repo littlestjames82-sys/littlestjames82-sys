@@ -45,6 +45,13 @@ Install Agent Seatbelt in Claude Code:
 
 Building in public — Agent Seatbelt v0.2.0 is live on PyPI, the GhostGuard family is public on GitHub, GhostBus and Ghost Bridge connect agents across tools, and the [roadmap board](https://github.com/littlestjames82-sys/ghost-roadmaps) shows where everything stands.
 
+## Hacktoberfest 2026
+
+Two contributions to [UseAgent](https://github.com/useagenthq/useagent), an open-source AI agent platform. Both accepted and in `main`, both passing full CI (19/19 checks):
+
+- [Show a routine's past runs from the Bots page](https://github.com/useagenthq/useagent/pull/121) — a History drawer for routines, labeled `hacktoberfest-accepted` and merged into main as [40763fab6](https://github.com/useagenthq/useagent/commit/40763fab6). The maintainer: "clean change that reuses what was already there."
+- [Render Mermaid diagrams in thread messages](https://github.com/useagenthq/useagent/pull/135) — merged. The maintainer: "nice work, and the lazy load keeps the page light."
+
 ## Links
 
 - Website: [Ghost Developer Studio](https://muse.ai/s/ghost-developer-studio-xsxh6xdxwxtxlbxs7e)
