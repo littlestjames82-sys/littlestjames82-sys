@@ -20,7 +20,7 @@ Ghost Developer Studio is an independent software studio in Oakdale, Tennessee. 
 
 | Project | What it is |
 | --- | --- |
-| [Agent Seatbelt](https://github.com/littlestjames82-sys/agent-seatbelt) | Deterministic guardrails for AI coding agents (Claude Code plugin). Gates what your agent does before it does it — 221/221 on the open Seatbelt Bench, zero false positives. On [PyPI](https://pypi.org/project/ghost-seatbelt/) as `ghost-seatbelt` — `pip install ghost-seatbelt`; v0.3.1. |
+| [Agent Seatbelt](https://github.com/littlestjames82-sys/agent-seatbelt) | Deterministic guardrails for AI coding agents (Claude Code plugin). Gates what your agent does before it does it — 272/272 on the open Seatbelt Bench, zero false positives. On [PyPI](https://pypi.org/project/ghost-seatbelt/) as `ghost-seatbelt` — `pip install ghost-seatbelt`; v0.3.2. |
 | [GhostGuard](https://github.com/littlestjames82-sys/ghostguard) | Record-first governance for AI agents: a gateway that classifies, decides, and records every agent act before it executes — fail-closed policy, approvals, and audit. The GhostGuard family adds an MCP adapter, budgets & kill-switch, a secrets broker, policy replay, pre-written policy packs, and more — start at the core repo. |
 | [Ghost Hands](https://github.com/littlestjames82-sys/ghost-hands) | Governed, recorded, replayable agent hands — our own zero-dependency CDP stack. On [PyPI](https://pypi.org/project/ghost-hands/) as `ghost-hands` 0.9.2 (`pip install ghost-hands`) — 443 tests, offline bench 95/95. [Site](https://littlestjames82-sys.github.io/ghost-hands/) |
 | [GhostBus](https://github.com/littlestjames82-sys/ghostbus) | Agent-to-agent message bus + shared workspace, exposed as an MCP server. Zero dependencies. |
@@ -44,16 +44,16 @@ Install Agent Seatbelt in Claude Code:
 
 ## Currently
 
-Building in public — Agent Seatbelt v0.3.1 is live on PyPI, the GhostGuard family is public on GitHub, GhostBus and Ghost Bridge connect agents across tools, and the [roadmap board](https://github.com/littlestjames82-sys/ghost-roadmaps) shows where everything stands.
+Building in public — Agent Seatbelt v0.3.2 is live on PyPI, the GhostGuard family is public on GitHub, GhostBus and Ghost Bridge connect agents across tools, and the [roadmap board](https://github.com/littlestjames82-sys/ghost-roadmaps) shows where everything stands.
 
 ## Hacktoberfest 2026
 
-Three contributions to [UseAgent](https://github.com/useagenthq/useagent), an open-source AI agent platform. All three accepted and in `main`, all passing full CI (19/19 checks):
+Four contributions to [UseAgent](https://github.com/useagenthq/useagent), an open-source AI agent platform. All four accepted and merged into `main`:
 
 - [Show a routine's past runs from the Bots page](https://github.com/useagenthq/useagent/pull/121) — a History drawer for routines, labeled `hacktoberfest-accepted` and merged into main as [40763fab6](https://github.com/useagenthq/useagent/commit/40763fab6). The maintainer: "clean change that reuses what was already there."
 - [Render Mermaid diagrams in thread messages](https://github.com/useagenthq/useagent/pull/135) — merged. The maintainer: "nice work, and the lazy load keeps the page light."
 - [Add an "Ember" color theme](https://github.com/useagenthq/useagent/pull/137) — merged, labeled `hacktoberfest-accepted`. The maintainer: "Merged, thanks. Ember looks great, and the contrast numbers you listed check out."
-- A fourth contribution, [routine next-run times in plain words](https://github.com/useagenthq/useagent/pull/136), is in review (CLA signed Oct 17, 2026).
+- A fourth contribution, [routine next-run times in plain words](https://github.com/useagenthq/useagent/pull/136) — merged Oct 21, 2026.
 
 ## Links
 
