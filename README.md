@@ -27,6 +27,8 @@ Ghost Developer Studio is an independent software studio in Oakdale, Tennessee. 
 | [GhostBus](https://github.com/littlestjames82-sys/ghostbus) | Agent-to-agent message bus + shared workspace, exposed as an MCP server. Zero dependencies. |
 | [GhostSlice](https://github.com/littlestjames82-sys/ghostslice) | Zero-dependency context tool for coding agents: scans a codebase and exports a sliced, token-budgeted context pack. On a reference tree it cut an estimated 129,555 tokens to 45,770. v1.0.6, 948 tests. |
 | [Ghost Bridge](https://github.com/littlestjames82-sys/ghost-bridge) | An MCP bridge + self-hostable relay that lets AI agents in other tools hand tasks to your own agent, with scoped keys, approvals, and an audit trail. |
+| [GhostIDE](https://github.com/littlestjames82-sys/ghostide-android) | Fully offline AI code editor that lives on your phone: on-device LLM, a governed agent, a complete git client, and 29 bundled Ghost tools. The desktop edition lives in [ghost-ide](https://github.com/littlestjames82-sys/ghost-ide). v3.10.0. |
+| [Ghost Agent](https://github.com/littlestjames82-sys/ghost-agent) | A persistent, governed operator for the Ghost ecosystem: local-first, standard library only, record-before-execute, human approvals, kanban dashboard. Out on desktop and Android. |
 
 Install Agent Seatbelt in Claude Code:
 
@@ -38,6 +40,7 @@ Install Agent Seatbelt in Claude Code:
 
 | Project | What it is |
 | --- | --- |
+| [LoadMaster](https://github.com/littlestjames82-sys/loadmaster) | Photograph a loaded trailer; LoadMaster checks it against the federal cargo securement rules (49 CFR 393) with SAM 3.1, a deterministic rules engine, and a Muse Spark report in plain words. Built for the Meta Global AI Developer Hackathon. [Live app](https://littlestjames82-sys--loadmaster-fastapi-app.us-east.modal.run) |
 | GhostCut | The studio's video editor — a rebranded, client-side editor the studio uses for its product films and social cuts, with narration and templates. Studio work; no public repo. |
 | [Storefront](https://github.com/littlestjames82-sys/storefront) | One-page websites + lead capture for trades businesses. [Live demo](https://storefront-ghost-dev.netlify.app) |
 | [GhostChat](https://github.com/littlestjames82-sys/ghostchat) | Live-chat & omnichannel inbox for small businesses — the studio's rebrand of Chatwoot (MIT), with upstream attribution intact. |
@@ -45,7 +48,7 @@ Install Agent Seatbelt in Claude Code:
 
 ## Currently
 
-Building in public — Agent Seatbelt v0.3.2 is live on PyPI, the GhostGuard family is public on GitHub, Ghost Hands Mobile v3.16.0 is public with a green CI and a Pages site, GhostBus and Ghost Bridge connect agents across tools, and the [roadmap board](https://github.com/littlestjames82-sys/ghost-roadmaps) shows where everything stands.
+Building in public: Agent Seatbelt v0.3.2 is live on PyPI, the GhostGuard family is public on GitHub, Ghost Hands Mobile is public with a green CI and a Pages site, GhostBus and Ghost Bridge connect agents across tools, Ghost Agent is out on desktop and Android, and LoadMaster, built for the Meta Global AI Developer Hackathon, is in judging Nov 4 to 8, 2026. The [roadmap board](https://github.com/littlestjames82-sys/ghost-roadmaps) shows where everything stands.
 
 ## Hacktoberfest 2026
 
