@@ -65,6 +65,10 @@ Four contributions to [UseAgent](https://github.com/useagenthq/useagent), an ope
 
 **Governance for AI Agents with MongoDB** — MongoDB University skill badge, issued Nov 2026 via Credly. [Verify the badge](https://www.credly.com/go/lCCPhR1js6iAvPmU3l156g).
 
+<a href="https://www.credly.com/go/qXNXubTWKx7wrEZ4dCrydw"><img src="https://images.credly.com/images/db90dd37-f08e-4f0b-bd0e-da3ef8f23f08/blob" alt="Agility and Velocity: How MongoDB Helps Deliver New Features Faster badge" width="110"></a>
+
+**Agility and Velocity: How MongoDB Helps Deliver New Features Faster**, MongoDB skill badge, issued Nov 2026 via Credly. [Verify the badge](https://www.credly.com/go/qXNXubTWKx7wrEZ4dCrydw).
+
 ## Links
 
 - Website: [Ghost Developer Studio](https://muse.ai/s/ghost-developer-studio-xsxh6xdxwxtxlbxs7e)
