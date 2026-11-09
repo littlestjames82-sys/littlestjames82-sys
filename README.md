@@ -59,6 +59,12 @@ Four contributions to [UseAgent](https://github.com/useagenthq/useagent), an ope
 - [Add an "Ember" color theme](https://github.com/useagenthq/useagent/pull/137) — merged, labeled `hacktoberfest-accepted`. The maintainer: "Merged, thanks. Ember looks great, and the contrast numbers you listed check out."
 - A fourth contribution, [routine next-run times in plain words](https://github.com/useagenthq/useagent/pull/136) — merged Oct 21, 2026.
 
+## Credentials
+
+<a href="https://www.credly.com/go/lCCPhR1js6iAvPmU3l156g"><img src="https://images.credly.com/images/9a1ebf46-b34f-4b88-83c2-3af4863cf3df/blob" alt="Governance for AI Agents with MongoDB badge" width="110"></a>
+
+**Governance for AI Agents with MongoDB** — MongoDB University skill badge, issued Nov 2026 via Credly. [Verify the badge](https://www.credly.com/go/lCCPhR1js6iAvPmU3l156g).
+
 ## Links
 
 - Website: [Ghost Developer Studio](https://muse.ai/s/ghost-developer-studio-xsxh6xdxwxtxlbxs7e)
