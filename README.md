@@ -6,6 +6,8 @@
 
 **Founder, Ghost Developer Studio — Oakdale, Tennessee**
 
+<a href="https://lounge.ai/@littlestjames82-sys"><img src="https://lounge.ai/api/badge/littlestjames82-sys" alt="Ryan on AI Lounge" height="28"></a>
+
 ## About
 
 Ghost Developer Studio is an independent software studio in Oakdale, Tennessee. We build developer tools, AI-agent safety software, apps, and websites for local businesses — and we sell by showing working software, not slide decks.
